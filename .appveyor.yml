@@ -3,7 +3,7 @@ stack: node12
 branches:
   only:
     - main
-cach: node_modules
+cache: node_modules
 install:
   - npm install
 buid: off
