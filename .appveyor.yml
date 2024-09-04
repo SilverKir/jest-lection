@@ -1,4 +1,4 @@
-image: Visual Studio Code
+image: Visual Studio 2019
 stack: node 20
 branches:
   only:
